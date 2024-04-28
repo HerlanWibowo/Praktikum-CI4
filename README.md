@@ -13,10 +13,10 @@
 ![xampp](img/8.png)
 ![xampp](img/9.png)
 ![xampp](img/10.png)
-![xampp](img/11.png)
+
 
 ## Hasil Praktikum 3: Framework Lanjutan (Modul Login)
-![xampp](img/13\.1.png)
-![xampp](img/12\.1.png)
+![xampp](img/11.png)
 
-## Hasil 
+## Hasil Praktikum 4: Pagination dan Pencarian
+![xampp](img/14.png)
